@@ -1,18 +1,18 @@
-<h1 align="center">Sudhanshu Shukla</h1>
+<h1 align="center">Surya Veer Singh</h1>
 <p align="center">Systems and Backend Engineer</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhss&locale=en&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryaveer046&locale=en&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=sudhss&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sudhss&theme=github-dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=suryaveer046&theme=github-dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhss&custom_title=Contribution%20Graph&theme=github-dark&radius=5&hide_border=true&area=true" height="275" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryaveer046&custom_title=Contribution%20Graph&theme=github-dark&radius=5&hide_border=true&area=true" height="275" alt="Activity Graph" />
 </div>
 
 ###
@@ -59,16 +59,16 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sudhs-shukla/" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-veer-singh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:shuklasudhanshu230405@gmail.com" target="_blank">
+  <a href="mailto:suryaveer046@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="35" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/1193626102963376313" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="35" alt="Discord" />
   </a>
-  <a href="https://Sudhss.github.io/portfolio/" target="_blank">
+  <a href="https://suryaveer046.github.io/portfolio/" target="_blank">
     <img src="assests\icon-portfolio.png" width="55" height="39" alt="Portfolio" />
   </a>
 </div>
@@ -76,6 +76,6 @@
 ###
 
 <!-- Snake animation stays as is -->
-<img src="https://raw.githubusercontent.com/Sudhss/Sudhss/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/suryaveer046/suryaveer046/output/snake.svg" alt="Snake animation" />
 
 ###
